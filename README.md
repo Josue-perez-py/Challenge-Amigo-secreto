@@ -3,7 +3,7 @@ Challenge del amigo secreto es una aplicación que permita a los usuarios ingres
 <div align="center">
 <img width="35%" alt="AMIGO-SECRETO" src="https://github.com/user-attachments/assets/aa2e31f5-4de0-4aa4-bfb3-1d78c07a26cc" />
 <div>
-:construction: Proyecto en construcción :construction:
+:construction: Proyecto finalizado :construction:
 
   ## :hammer:Funcionalidades del proyecto
 - `Funcionalidad 1`: Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
